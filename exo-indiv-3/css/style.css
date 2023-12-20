@@ -1,0 +1,32 @@
+h1 {
+    color: greenyellow;
+    background-color: black;
+}
+
+.body {
+    background-color: black;
+    color : greenyellow;
+}
+
+.encart {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: black;
+    color : greenyellow;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+}
